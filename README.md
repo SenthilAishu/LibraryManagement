@@ -22,6 +22,10 @@ Overall, a library management system CRUDapplication is an essential tool for mo
 This Java application implements a basic Library Management System with a SQL database. 
 Users can perform CRUD operations on books in the library.
 
+# Technology used
+  Java[Core&Advanced]
+  MySQL.
+  
 # Script
 
 CREATE DATABASE library;
