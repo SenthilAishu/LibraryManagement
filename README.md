@@ -17,7 +17,7 @@ CRUD stands for Create, Read, Update, and Delete, which are the four basic funct
 The purpose of the library management system is to provide a comprehensive and efficient way to manage the library's resources and make it easy for staff to keep track of books.
 Overall, a library management system CRUDapplication is an essential tool for modern libraries that want to efficiently manage theircollections and provide excellent service to their patrons.
     
-#Objective 
+# Objective 
 
 This Java application implements a basic Library Management System with a SQL database. 
 Users can perform CRUD operations on books in the library.
@@ -53,6 +53,10 @@ CREATE TABLE books (
 
 - Follow the console - menu to perform CRUD operations on books in the library.
 
+## ScreenShot of the Output
+        - These tasks mainly focused on CRUD Application. Here are some of the output of the specific requirements.
+          1) Add a Book
+          
 
 ## Contributors
 
