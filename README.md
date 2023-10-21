@@ -23,7 +23,7 @@ This Java application implements a basic Library Management System with a SQL da
 Users can perform CRUD operations on books in the library.
 
 # Technology used
-  Java[Core&Advanced]
+  Java[Core&Advanced],
   MySQL.
   
 # Script
@@ -59,8 +59,17 @@ CREATE TABLE books (
 
 ## ScreenShot of the Output
         - These tasks mainly focused on CRUD Application. Here are some of the output of the specific requirements.
-          1) Add a Book
-          
+          1) Add a Book to the library's collection
+![Screenshot 2023-10-20 161648](https://github.com/SenthilAishu/LibraryManagement/assets/91359845/e496fb6f-3b67-4ecb-b7f4-2f4752791fdc)
+![Screenshot 2023-10-20 162658](https://github.com/SenthilAishu/LibraryManagement/assets/91359845/f31ff03b-4b2a-4233-b30b-1ff561118d05)
+          2)Display all the books in the library
+![Screenshot 2023-10-20 164149](https://github.com/SenthilAishu/LibraryManagement/assets/91359845/8bf593ef-2713-4612-b57c-96f9621ce31b)
+![Screenshot 2023-10-20 164235](https://github.com/SenthilAishu/LibraryManagement/assets/91359845/0efd5c59-f468-4c28-bc9e-2f359bcc3b89)
+![Screenshot 2023-10-20 164254](https://github.com/SenthilAishu/LibraryManagement/assets/91359845/5ea7fc43-018e-44f9-8d04-401d99734a13)
+      - In MySQL Database view
+![Screenshot 2023-10-20 163950](https://github.com/SenthilAishu/LibraryManagement/assets/91359845/0d8c71f9-e1d2-4d0c-9679-3ebb9521e347)
+
+
 
 ## Contributors
 
