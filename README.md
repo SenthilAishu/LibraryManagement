@@ -8,7 +8,7 @@
      5)Running the Application
      6)usage
      7)Screenshot of the Output
-     8)Contributors
+     8)Contributor
      
 # Introduction
 
@@ -62,15 +62,22 @@ CREATE TABLE books (
           1) Add a Book to the library's collection
 ![Screenshot 2023-10-20 161648](https://github.com/SenthilAishu/LibraryManagement/assets/91359845/e496fb6f-3b67-4ecb-b7f4-2f4752791fdc)
 ![Screenshot 2023-10-20 162658](https://github.com/SenthilAishu/LibraryManagement/assets/91359845/f31ff03b-4b2a-4233-b30b-1ff561118d05)
+          
           2)Display all the books in the library
 ![Screenshot 2023-10-20 164149](https://github.com/SenthilAishu/LibraryManagement/assets/91359845/8bf593ef-2713-4612-b57c-96f9621ce31b)
 ![Screenshot 2023-10-20 164235](https://github.com/SenthilAishu/LibraryManagement/assets/91359845/0efd5c59-f468-4c28-bc9e-2f359bcc3b89)
 ![Screenshot 2023-10-20 164254](https://github.com/SenthilAishu/LibraryManagement/assets/91359845/5ea7fc43-018e-44f9-8d04-401d99734a13)
-      - In MySQL Database view
+      
+          - In MySQL Database view
 ![Screenshot 2023-10-20 163950](https://github.com/SenthilAishu/LibraryManagement/assets/91359845/0d8c71f9-e1d2-4d0c-9679-3ebb9521e347)
 
+          3)Edit Book Details based on ISBN
+![Screenshot 2023-10-20 164630](https://github.com/SenthilAishu/LibraryManagement/assets/91359845/ec8a3ff3-af5d-4c3b-9374-4eb563ab86cd)
+![Screenshot 2023-10-20 164652](https://github.com/SenthilAishu/LibraryManagement/assets/91359845/cfd10e44-229b-4ef5-af09-da89984463ab)
+![Screenshot 2023-10-20 164720](https://github.com/SenthilAishu/LibraryManagement/assets/91359845/5762d7e1-94d3-41e4-a416-85c3754c2657)
+![Screenshot 2023-10-20 165014](https://github.com/SenthilAishu/LibraryManagement/assets/91359845/6d06f6a8-750a-4121-b083-024c27a42da9)
 
-
+          
 ## Contributors
 
 - Senthilkumar.A
