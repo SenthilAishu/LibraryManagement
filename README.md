@@ -75,10 +75,14 @@ CREATE TABLE books (
 ![Screenshot 2023-10-20 164630](https://github.com/SenthilAishu/LibraryManagement/assets/91359845/ec8a3ff3-af5d-4c3b-9374-4eb563ab86cd)
 ![Screenshot 2023-10-20 164652](https://github.com/SenthilAishu/LibraryManagement/assets/91359845/cfd10e44-229b-4ef5-af09-da89984463ab)
 ![Screenshot 2023-10-20 164720](https://github.com/SenthilAishu/LibraryManagement/assets/91359845/5762d7e1-94d3-41e4-a416-85c3754c2657)
-          
+
+           -Before Editing the Book Details
+![Screenshot 2023-10-20 163950](https://github.com/SenthilAishu/LibraryManagement/assets/91359845/281ebe1f-d847-4434-a83b-4ba5c377cf5f)
+
+           
            -After Editing The Book Details
            
-           -Here I changed the Genre Column
+           -Here I changed the 1st row of the Genre Column
 ![Screenshot 2023-10-20 165014](https://github.com/SenthilAishu/LibraryManagement/assets/91359845/6d06f6a8-750a-4121-b083-024c27a42da9)
 
           4)Delete a book from the library
