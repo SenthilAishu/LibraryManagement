@@ -19,7 +19,7 @@ Overall, a library management system CRUDapplication is an essential tool for mo
     
 # Objective 
 
-This Java application implements a basic Library Management System with a SQL database. 
+This Java application implements a basic Library Management System with a  MYSQL database. 
 Users can perform CRUD operations on books in the library.
 
 # Technology used
@@ -77,7 +77,20 @@ CREATE TABLE books (
 ![Screenshot 2023-10-20 164720](https://github.com/SenthilAishu/LibraryManagement/assets/91359845/5762d7e1-94d3-41e4-a416-85c3754c2657)
 ![Screenshot 2023-10-20 165014](https://github.com/SenthilAishu/LibraryManagement/assets/91359845/6d06f6a8-750a-4121-b083-024c27a42da9)
 
-          
+          4)Delete a book from the library
+![Screenshot 2023-10-20 165105](https://github.com/SenthilAishu/LibraryManagement/assets/91359845/da286fa6-fb23-416f-9586-da0a884c77e8)
+![Screenshot 2023-10-20 165124](https://github.com/SenthilAishu/LibraryManagement/assets/91359845/595714ea-14d9-432e-a179-d5ddfcb566ec)
+
+           -Before Delete the book 
+![Screenshot 2023-10-20 165014](https://github.com/SenthilAishu/LibraryManagement/assets/91359845/7837b372-2d49-441a-966a-577d18f39043)
+
+           -After Delete the book
+![Screenshot 2023-10-20 165153](https://github.com/SenthilAishu/LibraryManagement/assets/91359845/0f9aa40a-0b30-4047-9390-678a38c2f4ef)
+
+         5) For Exit the Program
+![Screenshot 2023-10-20 165235](https://github.com/SenthilAishu/LibraryManagement/assets/91359845/e8f9f541-2420-47eb-b8b7-8562a048465e)
+      
+
 ## Contributors
 
 - Senthilkumar.A
